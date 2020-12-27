@@ -3,7 +3,7 @@ def create_an_empty_array
 end
 
 def create_an_array
-  sake_types = ["honjozo", "junmai", "junmai ginjo", "junmai daiginjo"]
+  sake_types = ["honjozo", "junmai", "ginjo", "daiginjo"]
 end
 
 def add_element_to_end_of_array(array, element)
